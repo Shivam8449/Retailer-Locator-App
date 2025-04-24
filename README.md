@@ -56,3 +56,5 @@ React Context API (optional) for state management (if implemented later)
 
 📱 Mobile View	💻 Desktop View
 Coming soon	Coming soon
+
+Live View: https://legendary-pavlova-ee3a7b.netlify.app
