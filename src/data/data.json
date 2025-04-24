@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "FreshMart",
+    "category": "Grocery",
+    "location": "Connaught Place",
+    "phoneNumber": "919876543210",
+    "latitude": 28.6315,
+    "longitude": 77.2167
+  },
+  {
+    "id": 2,
+    "name": "MediCare",
+    "category": "Medicines",
+    "location": "Janpath",
+    "phoneNumber": "919812345678",
+    "latitude": 28.6290,
+    "longitude": 77.2160
+  },
+  {
+    "id": 3,
+    "name": "City Grocers",
+    "category": "Grocery",
+    "location": "Barakhamba Road",
+    "phoneNumber": "919811122233",
+    "latitude": 28.6345,
+    "longitude": 77.2190
+  },
+  {
+    "id": 4,
+    "name": "PharmaPlus",
+    "category": "Medicines",
+    "location": "CP Middle Circle",
+    "phoneNumber": "919845678912",
+    "latitude": 28.6320,
+    "longitude": 77.2180
+  },
+  {
+    "id": 5,
+    "name": "DailyMart",
+    "category": "Grocery",
+    "location": "Shankar Market",
+    "phoneNumber": "919854321789",
+    "latitude": 28.6300,
+    "longitude": 77.2140
+  },
+  {
+    "id": 6,
+    "name": "QuickPharma",
+    "category": "Medicines",
+    "location": "Mandi House",
+    "phoneNumber": "919890123456",
+    "latitude": 28.6285,
+    "longitude": 77.2195
+  },
+  {
+    "id": 7,
+    "name": "GroceryXpress",
+    "category": "Grocery",
+    "location": "Janpath Lane",
+    "phoneNumber": "919812300123",
+    "latitude": 28.6310,
+    "longitude": 77.2135
+  },
+  {
+    "id": 8,
+    "name": "CityMedics",
+    "category": "Medicines",
+    "location": "CP Outer Circle",
+    "phoneNumber": "919844221100",
+    "latitude": 28.6335,
+    "longitude": 77.2175
+  },
+  {
+    "id": 9,
+    "name": "DailyNeeds",
+    "category": "Grocery",
+    "location": "Rajiv Chowk",
+    "phoneNumber": "919899888777",
+    "latitude": 28.6322,
+    "longitude": 77.2150
+  },
+  {
+    "id": 10,
+    "name": "PharmaCare",
+    "category": "Medicines",
+    "location": "CP Inner Circle",
+    "phoneNumber": "919833445566",
+    "latitude": 28.6340,
+    "longitude": 77.2160
+  },
+  {
+    "id": 11,
+    "name": "SuperMart South Delhi",
+    "category": "Grocery",
+    "location": "South Extension",
+    "phoneNumber": "919800111222",
+    "latitude": 28.5733,
+    "longitude": 77.2345
+  },
+  {
+    "id": 12,
+    "name": "MetroPharma",
+    "category": "Medicines",
+    "location": "Lajpat Nagar",
+    "phoneNumber": "919845212345",
+    "latitude": 28.5690,
+    "longitude": 77.2430
+  },
+  {
+    "id": 13,
+    "name": "GreenGrocers",
+    "category": "Grocery",
+    "location": "Khan Market",
+    "phoneNumber": "919854500321",
+    "latitude": 28.6000,
+    "longitude": 77.2290
+  },
+  {
+    "id": 14,
+    "name": "HealthFirst Pharmacy",
+    "category": "Medicines",
+    "location": "Saket",
+    "phoneNumber": "919800987654",
+    "latitude": 28.5245,
+    "longitude": 77.2067
+  },
+  {
+    "id": 15,
+    "name": "Daily Basket",
+    "category": "Grocery",
+    "location": "Hauz Khas",
+    "phoneNumber": "919899551122",
+    "latitude": 28.5500,
+    "longitude": 77.2080
+  },
+  {
+    "id": 16,
+    "name": "PharmaConnect",
+    "category": "Medicines",
+    "location": "Defence Colony",
+    "phoneNumber": "919866777444",
+    "latitude": 28.5788,
+    "longitude": 77.2340
+  },
+  {
+    "id": 17,
+    "name": "Daily Mart East Delhi",
+    "category": "Grocery",
+    "location": "Preet Vihar",
+    "phoneNumber": "919812300000",
+    "latitude": 28.6330,
+    "longitude": 77.2880
+  },
+  {
+    "id": 18,
+    "name": "MediPoint",
+    "category": "Medicines",
+    "location": "Mayur Vihar",
+    "phoneNumber": "919812399999",
+    "latitude": 28.6090,
+    "longitude": 77.2900
+  },
+  {
+    "id": 19,
+    "name": "MegaMart",
+    "category": "Grocery",
+    "location": "Karol Bagh",
+    "phoneNumber": "919811111222",
+    "latitude": 28.6519,
+    "longitude": 77.1905
+  },
+  {
+    "id": 20,
+    "name": "PharmaQuick",
+    "category": "Medicines",
+    "location": "Paharganj",
+    "phoneNumber": "919800000111",
+    "latitude": 28.6450,
+    "longitude": 77.2132
+  },
+  {
+    "id": 21,
+    "name": "Neighborhood Mart",
+    "category": "Grocery",
+    "location": "Pitampura",
+    "phoneNumber": "919899998888",
+    "latitude": 28.7053,
+    "longitude": 77.1475
+  },
+  {
+    "id": 22,
+    "name": "MedicHub",
+    "category": "Medicines",
+    "location": "Rohini",
+    "phoneNumber": "919877665544",
+    "latitude": 28.7510,
+    "longitude": 77.1000
+  },
+  {
+    "id": 23,
+    "name": "Fresh Essentials",
+    "category": "Grocery",
+    "location": "Paschim Vihar",
+    "phoneNumber": "919899333222",
+    "latitude": 28.6710,
+    "longitude": 77.1020
+  },
+  {
+    "id": 24,
+    "name": "City Pharmacy",
+    "category": "Medicines",
+    "location": "Dwarka",
+    "phoneNumber": "919811119999",
+    "latitude": 28.5935,
+    "longitude": 77.0266
+  },
+  {
+    "id": 25,
+    "name": "SmartGrocer",
+    "category": "Grocery",
+    "location": "Vasant Kunj",
+    "phoneNumber": "919899665544",
+    "latitude": 28.5225,
+    "longitude": 77.1551
+  },
+  {
+    "id": 26,
+    "name": "RxMedic",
+    "category": "Medicines",
+    "location": "Mehrauli",
+    "phoneNumber": "919866221100",
+    "latitude": 28.5105,
+    "longitude": 77.1812
+  },
+  {
+    "id": 27,
+    "name": "DailyProvisions",
+    "category": "Grocery",
+    "location": "Malviya Nagar",
+    "phoneNumber": "919899776655",
+    "latitude": 28.5305,
+    "longitude": 77.2105
+  },
+  {
+    "id": 28,
+    "name": "LifeMed",
+    "category": "Medicines",
+    "location": "Chandni Chowk",
+    "phoneNumber": "919811778899",
+    "latitude": 28.6562,
+    "longitude": 77.2300
+  },
+  {
+    "id": 29,
+    "name": "EasyMart",
+    "category": "Grocery",
+    "location": "Civil Lines",
+    "phoneNumber": "919899445566",
+    "latitude": 28.6740,
+    "longitude": 77.2240
+  },
+  {
+    "id": 30,
+    "name": "QuickHealth",
+    "category": "Medicines",
+    "location": "Model Town",
+    "phoneNumber": "919800888777",
+    "latitude": 28.7045,
+    "longitude": 77.1900
+  },
+  {
+    "id": 31,
+    "name": "FreshMart Grocery",
+    "category": "Grocery",
+    "location": "MG Road, Bangalore",
+    "phoneNumber": "919876543210",
+    "latitude": 12.9718,
+    "longitude": 77.5949
+  },
+  {
+    "id": 32,
+    "name": "HealthPlus Pharmacy",
+    "category": "Medicines",
+    "location": "Church Street, Bangalore",
+    "phoneNumber": "919876543211",
+    "latitude": 12.9750,
+    "longitude": 77.5990
+  },
+  {
+    "id": 33,
+    "name": "GreenGrocer",
+    "category": "Grocery",
+    "location": "Indiranagar, Bangalore",
+    "phoneNumber": "919876543212",
+    "latitude": 12.9710,
+    "longitude": 77.6400
+  },
+  {
+    "id": 34,
+    "name": "CityCare Medical",
+    "category": "Medicines",
+    "location": "Brigade Road, Bangalore",
+    "phoneNumber": "919876543213",
+    "latitude": 12.9730,
+    "longitude": 77.6040
+  },
+  {
+    "id": 35,
+    "name": "Quick Basket",
+    "category": "Grocery",
+    "location": "Koramangala, Bangalore",
+    "phoneNumber": "919876543214",
+    "latitude": 12.9350,
+    "longitude": 77.6140
+  },
+  {
+    "id": 36,
+    "name": "MediQuick",
+    "category": "Medicines",
+    "location": "Domlur, Bangalore",
+    "phoneNumber": "919876543215",
+    "latitude": 12.9590,
+    "longitude": 77.6400
+  },
+  {
+    "id": 37,
+    "name": "DailyFresh",
+    "category": "Grocery",
+    "location": "Jayanagar, Bangalore",
+    "phoneNumber": "919876543216",
+    "latitude": 12.9330,
+    "longitude": 77.5890
+  },
+  {
+    "id": 38,
+    "name": "PharmaPro",
+    "category": "Medicines",
+    "location": "Whitefield, Bangalore",
+    "phoneNumber": "919876543217",
+    "latitude": 12.9810,
+    "longitude": 77.7090
+  },
+  {
+    "id": 39,
+    "name": "HealthyMart",
+    "category": "Grocery",
+    "location": "BTM Layout, Bangalore",
+    "phoneNumber": "919876543218",
+    "latitude": 12.9120,
+    "longitude": 77.6110
+  },
+  {
+    "id": 40,
+    "name": "MediHealth",
+    "category": "Medicines",
+    "location": "Banaswadi, Bangalore",
+    "phoneNumber": "919876543219",
+    "latitude": 12.9940,
+    "longitude": 77.6420
+  }
+]
